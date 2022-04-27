@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+* {
+    box-sizing: border-box;
+}
+.header{
+    background-color: rgb(241, 201, 208);
+    font-size: 65px;
+    border-top: 7px double black;
+    border-bottom: 7px double black;
+    color: rgb(156, 48, 48);
+    padding: 30px 300px 30px 100px;
+    font-family: 'Lato', sans-serif;
+}
+
+.reading{
+    font-size: 50px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900px;
+}
+
+span{
+    color: red;
+}
+
+div{
+    margin-top: 50px;
+}
+
+.text-bold{
+    font: 500px;
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+}
+
+.text-box{
+    border: 5px solid blue;
+    background-color: rgb(191, 191, 241);
+    padding: 50px 100px 30px 20px;
+    font-size: 35px;
+    color: blue;
+    margin: 50px 200px 50px 50px;
+}
+
+.list{
+    padding-left: 80px;
+    font-size: 30px;
+    color: black;
+}

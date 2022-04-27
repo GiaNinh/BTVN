@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.header{
+    background-color: blueviolet;
+    color: white;
+    padding: 30px 260px;
+    font-size: 40px;
+
+}
+
+.nav{
+    font-size: 28px;
+    margin: 0 0 0.35em;
+    padding: 30px 260px;
+}
+
+.sony{
+    display: grid;
+    padding: 20px;
+    font-size: 20px;
+    margin: 0 260px;
+    border: 1px solid #c9c9c9;
+    border-radius: 7px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);  
+    width: 820px;
+    height: auto;
+}
+
+image{
+    display: block;
+    border-radius: 7px 7px 0 0;
+    margin-bottom: 20px;    
+    padding: 5px;
+}
+
+h1{
+    font-size: 28px;
+    margin: 0 0 0.35em;
+    padding: 20px 260px 0px ;
+}
+
+h3{
+    margin: 0 ;
+    padding: 20px 20px 10px 0px;
+    font-size: 20px;
+    color: rgb(89, 14, 160);
+}
+
+p{
+    font-size: 17px;
+    padding: 0;
+    margin: 0 0 20px;
+    color: #757575;
+    line-height: 1.5;
+}
+
+.button{
+    text-decoration: none;
+    background-color: rebeccapurple;
+    color: #fff;
+    padding: 0.5em 1em;
+    border-radius: 4px;
+    display: inline-block;
+    width: 98px;
+    height: 18px;
+    font-size: medium;
+}
+
+.footer{
+    border-top: 2px solid purple;
+    margin: 20px 0 0 0;
+    
+}
+
+p.footer{
+    font-size: 17px;
+    padding: 24px;
+    width: 860px;
+    border: 0;
+    margin: 0 236px;
+}
